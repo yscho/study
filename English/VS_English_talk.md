@@ -20,7 +20,7 @@
 ### It's essential that we follow up once again via email or phone for the action plan so that everyone can follow through on it effectively.
 - 실행 계획에 대해 이메일이나 전화를 통해 다시 한 번 후속 조치를 하여 모두가 효과적으로 실행할 수 있도록하는 것이 중요합니다.
 
-
+-------
 # *behind schedule*
 >[!NOTE] (up against the clock)
         일정이 지연 되었다고 말할 때
