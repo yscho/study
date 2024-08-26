@@ -46,3 +46,27 @@
 #### We are currently behind schedule on the project, so we need to increase our efforts to meet the deadline.
 ###### 현재 예정보다 늦어진 일정은 고객이 의구심을 표한 핵심 사항 중 하나입니다.
 #### The timeline, currently behind schedule, is one of the key points that our clients expressed their doubts about.
+
+-------
+
+# *lock in*
+> [!NOTE]
+> (finalize, confirm, approve)
+> 회의 날짜, 결정, 합의 또는 계획 등을 확정하거나 마무리 지을 때 사용하는 표현을 배워봅시다
+>
+###### 오늘 오후 2시로 확정합시다.
+#### Let's lock it in at 2pm today.
+###### 금요일로 확정합시다.
+#### Let's lock it in for Friday.
+###### 프로젝트의 최종 가격을 확정합시다.
+#### Let's lock in the final pricing for the project.
+###### 계약서를 검토 후 계약을 확정하게 되어 기쁩니다.
+#### After reviewing the contract, I'm happy to lock it in.
+###### 이제 확정하고 추천해 주신 공급업체와 계약을 진행하겠습니다.
+#### Let's lock it in and move forward with the supplier you recommended.
+###### 모두의 동의를 얻었습니다. 이제 확정하고 프로젝트를 시작하겠습니다.
+#### We have everyone's agreement. Let's lock it in and get started on the project.
+###### 확정하기 전에 더 명확히 해야 할 사항이 있나요?
+#### Is there anything else you need to clarify before we lock it in?
+###### 확정된 뒤 확인 이메일을 보내서 모두가 기록을 가질 수 있도록 할게요.
+#### I'll send out a confirmation email after we lock it in, so everyone has a record.
