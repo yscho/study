@@ -23,8 +23,6 @@
         (up against the clock)
         일정이 지연 되었다고 말할 때
         사용하는 표현을 배워봅시다.
-
-
 일부 작업에서 예정보다 늦어지고 있습니다.
 #### We are falling behind schedule on some of our tasks.
 프로젝트 일정이 늦어지고 있어서 따라잡기 위해 더욱 열심히 일 해야 합니다.
