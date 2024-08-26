@@ -20,7 +20,7 @@
 
 
 # *behind schedule*
-        (up against the clock)
+> (up against the clock)
         일정이 지연 되었다고 말할 때
         사용하는 표현을 배워봅시다.
 일부 작업에서 예정보다 늦어지고 있습니다.
