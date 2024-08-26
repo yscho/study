@@ -1,4 +1,4 @@
-# follow through on
+# *follow through on*
 ## (carry out, implement)
 - (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
 ### Please follow through on the action items you have.
