@@ -1,5 +1,5 @@
 # *follow through on*
-    ## (carry out, implement)
+>[!NOTE] (carry out, implement)
     - (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
 ### Please follow through on the action items you have.
 - 가지고 계신 실행 항목을 따라주세요.
@@ -20,7 +20,7 @@
 
 
 # *behind schedule*
-> (up against the clock)
+>[!NOTE] (up against the clock)
         일정이 지연 되었다고 말할 때
         사용하는 표현을 배워봅시다.
 
