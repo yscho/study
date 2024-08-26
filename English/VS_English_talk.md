@@ -28,18 +28,18 @@
 #### We are falling behind schedule on some of our tasks.
 ###### 일부 작업에서 예정보다 늦어지고 있습니다.
 
-****** 프로젝트 일정이 늦어지고 있어서 따라잡기 위해 더욱 열심히 일 해야 합니다.
+###### 프로젝트 일정이 늦어지고 있어서 따라잡기 위해 더욱 열심히 일 해야 합니다.
 #### We're behind schedule on the project, so we need to work extra hard to catch up.
-****** 모든 계획이 예정보다 늦어지고 있으며 이는 심각한 상황입니다.
+###### 모든 계획이 예정보다 늦어지고 있으며 이는 심각한 상황입니다.
 #### All our plans are behind schedule, which is a serious situation for us.
 
-****** 기능 구현 완료가 예정보다 늦어지고 있는 것 같습니다.
+###### 기능 구현 완료가 예정보다 늦어지고 있는 것 같습니다.
 #### Completion of feature implementation appears to be behind schedule.
-****** 이 프로젝트는 6 개월 전에 시작되었음에도 불구하고 여전히 예정보다 늦어지고 있습니다.
+###### 이 프로젝트는 6 개월 전에 시작되었음에도 불구하고 여전히 예정보다 늦어지고 있습니다.
 #### This project is still behind schedule even though it was kicked off six months ago.
-****** 코드 개발을 위한 공동 작업 동안, 예정보다 늦어지고 있다는 사실을 알게 되었습니다.
+###### 코드 개발을 위한 공동 작업 동안, 예정보다 늦어지고 있다는 사실을 알게 되었습니다.
 #### During our collaboration on code development, I found out that we are behind schedule.
-****** 현재 프로젝트 일정이 늦어지고 있어 마감일을 맞추기 위해 더 많은 노력을 기울여야 합니다.
+###### 현재 프로젝트 일정이 늦어지고 있어 마감일을 맞추기 위해 더 많은 노력을 기울여야 합니다.
 #### We are currently behind schedule on the project, so we need to increase our efforts to meet the deadline.
-****** 현재 예정보다 늦어진 일정은 고객이 의구심을 표한 핵심 사항 중 하나입니다.
+###### 현재 예정보다 늦어진 일정은 고객이 의구심을 표한 핵심 사항 중 하나입니다.
 #### The timeline, currently behind schedule, is one of the key points that our clients expressed their doubts about.
