@@ -22,9 +22,10 @@
 
 -------
 # *behind schedule*
->[!NOTE] (up against the clock)
-        일정이 지연 되었다고 말할 때
-        사용하는 표현을 배워봅시다.
+> [!NOTE]
+> (up against the clock)
+>  일정이 지연 되었다고 말할 때
+> 사용하는 표현을 배워봅시다.
 
 
 #### We are falling behind schedule on some of our tasks.
