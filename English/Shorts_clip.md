@@ -1,5 +1,5 @@
 --------------
-
+https://youtube.com/shorts/xuDDusc-uhM?si=-f00TOSawUdTnOMA
 
 ## 1. Under the weather
 - 뜻: 몸이 안 좋아 / 컨디션이 안 좋아
