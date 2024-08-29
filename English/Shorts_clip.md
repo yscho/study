@@ -1,4 +1,34 @@
+--------------
 
+
+## 1. Under the weather
+- 뜻: 몸이 안 좋아 / 컨디션이 안 좋아
+- 어원: 이 표현은 항해 용어에서 유래했으며, 선원들이 기상 악화로 인해 몸이 좋지 않을 때 under the weather라고 했습니다.
+- 상황: 아프거나 컨디션이 좋지 않을 때 사용합니다.
+- 예시: I’m feeling a bit under the weather today, so I might stay home.
+- 예시뜻: 오늘 몸이 좀 안 좋아서 집에 있을지도 몰라.
+
+## 2. Don't sweat it
+- 뜻: 걱정하지 마 / 신경 쓰지 마
+- 상황: 누군가가 작은 일로 걱정하거나 긴장할 때, 이를 진정시키기 위해 사용합니다.
+- 예시: Don’t sweat it, everything will be fine.
+- 예시뜻: 걱정하지 마, 다 잘 될 거야.
+
+## 3. Keep your chin up
+- 뜻: 힘내 / 기운 내
+- 어원: 이 표현은 머리를 숙이지 말고 턱을 올리라는 의미에서, 어려운 상황에서도 긍정적인 자세를 유지하라는 의미로 사용되었습니다.
+- 상황: 누군가가 힘든 상황을 겪고 있을 때 그를 격려하기 위해 사용합니다.
+- 예시: I know things are tough right now, but keep your chin up.
+- 예시뜻: 지금 상황이 어렵다는 거 알지만, 힘내.
+
+## 4. Shake a leg
+   - 뜻: 서둘러 / 빨리 움직여
+   - 어원: 이 표현은 19세기 초 해군에서 유래했으며, 선원들이 빨리 일어나서 움직이라는 명령으로 사용되었습니다.
+   - 상황: 누군가가 늦거나 더 빨리 행동해야 할 때 사용합니다.
+   - 예시: We’re running late, so shake a leg!
+   - 예시뜻: 우리 늦겠어, 빨리 움직여!
+
+--------------
 https://youtube.com/shorts/PzjIn688TGg?si=83qeVPdPR-Z16Ntc
 
 ## 1. Potato, potahto
