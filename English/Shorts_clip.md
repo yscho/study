@@ -1,4 +1,34 @@
 --------------
+https://youtube.com/shorts/AZQP_OWfEkc?si=0keHH5BSATjyvu4U
+
+## 1. I'm on your side
+- 뜻: 내가 네 편이야 / 네 편이다
+- 상황: 친구나 동료가 도움이나 지지를 표현할 때 사용합니다.
+- 예시: I know you're going through a tough time, but I'm on your side. We’ll get through this together.
+- 예시뜻: 상대방이 어려운 상황에 있을 때, 그 사람을 지원하거나 함께하겠다는 뜻입니다.
+
+## 2. Here goes nothing
+- 뜻: 밑져야 본전 / 잘 될지 모르지만 시도해보겠다 / 어떻게 될지 모르지만 해보겠다
+- 사용상황: 새로운 도전이나 시도를 할 때 긴장하거나 불안한 마음으로 사용합니다.
+- 예시: I’ve never done this before, but here goes nothing.
+- 예시뜻: 새로운 시도를 할 때 불안하거나 자신이 없지만 어쨌든 시도하겠다는 뜻입니다.
+
+## 3. That ship has sailed
+- 뜻: 기회가 지나갔다 / 이미 늦었다
+- 어원: 배가 떠나버린 뒤에는 다시 돌아오지 않듯이, 지나간 기회는 되돌릴 수 없다는 의미에서 유래했습니다.
+- 상황: 어떤 기회나 상황이 지나갔다는 것을 표현할 때 사용합니다.
+- 예시: You wanted to apply for that job, but the deadline was last week. That ship has sailed.
+- 예시뜻: 기회가 지나버려 더 이상 가능하지 않다는 뜻입니다.
+
+## 4. Level with me
+- 뜻: 솔직하게 말해줘 / 정직하게 말해줘
+- 어원: “Level”이라는 단어가 ‘수평’을 의미하듯이, 정직하고 공정하게 대하라는 뜻에서 유래했습니다.
+- 상황: 누군가가 진실이나 정직한 답변을 요구할 때 사용합니다.
+- 예시: I need you to level with me. Are you really interested in this project or not?
+- 예시뜻: 상대방에게 솔직하게 말해주길 바라는 뜻입니다.
+
+
+--------------
 https://youtube.com/shorts/8SLVmtOHOic?si=CbVF6hE3SHsVT7Gq
 
 ## 1. I take that back
