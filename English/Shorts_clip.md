@@ -1,11 +1,13 @@
 
 https://youtube.com/shorts/PzjIn688TGg?si=83qeVPdPR-Z16Ntc
 
-1. Potato, potahto
+##1. Potato, potahto
    - 뜻: 뭐가 다르겠어 / 별 차이 없어
-   - 어원: 이 표현은 potato를 다르게 발음한 potahto에서 유래했으며, 결국 같은 것을 의미하지만 사람들 사이에서 사소한 차이나 논쟁을 나타내기 위해 사용됩니다. - 상황: 두 가지가 본질적으로 같거나 차이가 중요하지 않을 때 사용됩니다. - 예시: You say tomato, I say tomahto; potato, potahto. It’s the same thing. - 예시뜻: 당신은 토마토라고 하고 나는 토마토라고 다르게 발음하지만, 결국 같은 걸 말하고 있다는 뜻입니다.
-   -
-   -
+   - 어원: 이 표현은 potato를 다르게 발음한 potahto에서 유래했으며, 결국 같은 것을 의미하지만 사람들 사이에서 사소한 차이나 논쟁을 나타내기 위해 사용됩니다.
+   - 상황: 두 가지가 본질적으로 같거나 차이가 중요하지 않을 때 사용됩니다.
+   - 예시: You say tomato, I say tomahto; potato, potahto. It’s the same thing.
+   - 예시뜻: 당신은 토마토라고 하고 나는 토마토라고 다르게 발음하지만, 결국 같은 걸 말하고 있다는 뜻입니다.
+   
 ## 2. Read the room
    - 뜻: 분위기 좀 파악해라 / 상황을 읽어라
    - 상황: 누군가 상황을 전혀 이해하지 못하고 부적절한 말을 할 때 사용합니다.
