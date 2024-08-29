@@ -1,7 +1,7 @@
 
 https://youtube.com/shorts/PzjIn688TGg?si=83qeVPdPR-Z16Ntc
 
-##1. Potato, potahto
+## 1. Potato, potahto
    - 뜻: 뭐가 다르겠어 / 별 차이 없어
    - 어원: 이 표현은 potato를 다르게 발음한 potahto에서 유래했으며, 결국 같은 것을 의미하지만 사람들 사이에서 사소한 차이나 논쟁을 나타내기 위해 사용됩니다.
    - 상황: 두 가지가 본질적으로 같거나 차이가 중요하지 않을 때 사용됩니다.
