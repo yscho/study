@@ -1,4 +1,31 @@
 --------------
+https://youtube.com/shorts/8SLVmtOHOic?si=CbVF6hE3SHsVT7Gq
+
+## 1. I take that back
+- 뜻: 그 말 취소할게 / 방금 한 말 취소해
+- 상황: 자신이 방금 한 말을 철회하거나 수정하고 싶을 때 사용합니다.
+- 예시: I thought you were wrong, but I take that back after seeing the evidence.
+- 예시뜻: 당신이 틀렸다고 생각했는데, 증거를 본 후 그 말을 취소하겠다는 뜻입니다.
+
+## 2. Coming through
+- 뜻: 지나갈게요 / 길 좀 비켜주세요
+- 상황: 혼잡한 장소에서 길을 확보하기 위해 사용합니다.
+- 예시: Excuse me, coming through!
+- 예시뜻: 붐비는 곳에서 사람들이 길을 비켜주기를 요청하는 말입니다.
+
+## 3. Beats me
+- 뜻: 모르겠어 / 전혀 모르겠어
+- 상황: 어떤 질문이나 상황에 대한 답을 모를 때 사용합니다.
+- 예시: Why did they cancel the meeting? Beats me.
+- 예시뜻: 왜 회의를 취소했는지 전혀 모르겠다는 뜻입니다.
+
+## 4. I'm over it
+- 뜻: 이제 신경 안 써 / 잊었어
+- 상황: 과거의 문제나 상처를 극복하고 더 이상 그것에 영향을 받지 않을 때 사용합니다.
+- 예시: I was upset about the breakup, but now I’m over it.
+- 예시뜻: 이별에 대해 속상했지만 이제는 다 잊었다는 뜻입니다.
+
+--------------
 https://youtube.com/shorts/xuDDusc-uhM?si=-f00TOSawUdTnOMA
 
 ## 1. Under the weather
