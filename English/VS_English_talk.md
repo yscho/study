@@ -1,7 +1,32 @@
+# *up against*
+> [!NOTE]
+> (facing, in trouble)
+> (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
+
+ 
+### We are up against a tight schedule due to incorrect scheduling.
+ - 잘못된 일정으로 인해 촉박한 일정에 직면해 있습니다.
+### We are up against a tight deadline and need to deliver a final SW as soon as possible.
+ - 마감 기한이 촉박하여 가능한 한 빨리 최종 SW를 제공해야 합니다.
+### We're up against challenges with collaboration on AVN code development with a third-party company.
+- 타사와의 AVN 코드 개발 협업에 어려움을 겪고 있습니다.
+ 
+### With two team members down, the remaining staff is up against a tough schedule.
+ - 팀원 두 명이 퇴사하면서 남은 직원들은 빡빡한 일정에 맞서고 있습니다.
+### We are up against a tight deadline for the first phase throughout the entire project schedule.
+ - 전체 프로젝트 일정 중 첫 번째 단계의 마감일이 촉박하게 다가오고 있습니다.
+### Instead of preparing everything up against the deadline, prepare them a day before the report.
+ - 마감일에 맞춰 준비하기 보다는 보고서는 하루 전에 준비합니다.
+### Even though we're always up against a tight schedule, let's brainstorm innovative solutions that can streamline our project.
+ - 항상 촉박한 일정에 쫓기지만 프로젝트를 간소화할 수 있는 혁신적인 솔루션을 브레인스토밍해 봅시다.
+### We are up against tight deadlines and a lack of resources, especially with the international collaboration
+- 특히 국제 협업을 진행하면서 촉박한 마감일과 리소스 부족에 직면하고 있습니다.
+-------
+
 # *follow through on*
 > [!NOTE]
 > (carry out, implement)
-> (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
+> 일정이나 어려움에 쫓기는 상황일 때 사용하는 표현
 
 ### Please follow through on the action items you have.
 - 가지고 계신 실행 항목을 따라주세요.
