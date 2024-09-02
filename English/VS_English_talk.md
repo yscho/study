@@ -27,7 +27,8 @@
 # *follow through on*
 > [!NOTE]
 > (carry out, implement)
-> 일정이나 어려움에 쫓기는 상황일 때 사용하는 표현
+> 
+> (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
 
 ### Please follow through on the action items you have.
 - 가지고 계신 실행 항목을 따라주세요.
