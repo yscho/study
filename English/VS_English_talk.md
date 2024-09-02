@@ -1,7 +1,8 @@
 # *up against*
 > [!NOTE]
 > (facing, in trouble)
-> (회의를 마친 후) 의사 결정, 액션 플랜, 업무를 하거나 마무리 지을 때 사용하는 표현
+> 
+> 일정이나 어려움에 쫓기는 상황일 때 사용하는 표현
 
  
 ### We are up against a tight schedule due to incorrect scheduling.
