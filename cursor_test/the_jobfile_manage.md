@@ -1,7 +1,7 @@
 # Python Script Specification for Converting *.JOB Files to CSV
 
 ## 규칙
-
+### 한글
 1. **파일 포맷**: 이 파일은 기본적으로 CSV와 유사한 포맷을 가지고 있습니다.
 2. **파일 확장자**: 파일의 확장자는 `*.JOB`입니다.
 3. **구분자**: 파일 내용은 CSV처럼 `,`로 구분되지 않고, 별도의 문자로 구분됩니다.
@@ -11,6 +11,7 @@
 7. **목적**: 이 프로그램의 최종 목적은 특이한 형태의 `*.JOB` 파일을 일반적인 CSV 파일로 변환하는 것입니다.
 8. **파일 생성**: 원본 파일은 그대로 두고, 새로운 CSV 파일을 생성합니다.
 
+### English
 1. **File Format**: This file basically has a format similar to CSV.
 2. **File Extension**: The file extension is `*.JOB`.
 3. **Delimiter**: The file contents are not separated by `,` like CSV, but by separate characters.
