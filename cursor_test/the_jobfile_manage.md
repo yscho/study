@@ -11,6 +11,15 @@
 7. **목적**: 이 프로그램의 최종 목적은 특이한 형태의 `*.JOB` 파일을 일반적인 CSV 파일로 변환하는 것입니다.
 8. **파일 생성**: 원본 파일은 그대로 두고, 새로운 CSV 파일을 생성합니다.
 
+1. **File Format**: This file basically has a format similar to CSV.
+2. **File Extension**: The file extension is `*.JOB`.
+3. **Delimiter**: The file contents are not separated by `,` like CSV, but by separate characters.
+4. **Example Delimiter**: For example, some files are separated by `+_+`.
+5. **Replace Delimiter**: Set the delimiter using a global variable so that you can easily modify the delimiter.
+6. **Multiple Delimiters**: There can be more than 2 delimiters, and the delimiters are included in an array, and this array is referenced when the program is executed.
+7. **Purpose**: The ultimate goal of this program is to convert a special-shaped `*.JOB` file into a general CSV file.
+8. **Create File**: Leave the original file as is, and create a new CSV file.
+
 ## 설명
 
 ### 한국어
